@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.9)  21 MAR 2022 15:55
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.9)  21 MAR 2022 16:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1529,11 +1529,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 LaTeX Font Info:    Font shape `TU/Arial(0)/b/sl' in size <9> not available
 (Font)              Font shape `TU/Arial(0)/b/it' tried instead on input line 4
-76.
+75.
 
 
 LaTeX Font Warning: Font shape `U/wasy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 476.
+(Font)              size <5> substituted on input line 475.
 
 [7
 
@@ -1548,11 +1548,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 27880 strings out of 476919
- 629829 string characters out of 5820496
- 903381 words of memory out of 5000000
- 47214 multiletter control sequences out of 15000+600000
- 521580 words of font info for 467 fonts, out of 8000000 for 9000
+ 27780 strings out of 476919
+ 625783 string characters out of 5820496
+ 903222 words of memory out of 5000000
+ 47122 multiletter control sequences out of 15000+600000
+ 507407 words of font info for 420 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  115i,16n,118p,1241b,976s stack positions out of 5000i,500n,10000p,200000b,80000s
 
