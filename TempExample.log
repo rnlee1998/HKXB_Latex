@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.9)  21 MAR 2022 14:33
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.9)  21 MAR 2022 15:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1524,64 +1524,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-(./TempExample.bbl [5]
-Underfull \hbox (badness 10000) in paragraph at lines 81--89
-[]\TU/FandolSong-Regular(0)/m/n/7.875 赫 泰 龙\TU/TimesNewRoman(0)/m/n/7.875 , \TU
-/FandolSong-Regular(0)/m/n/7.875 陈 万 春\TU/TimesNewRoman(0)/m/n/7.875 , \TU/Fand
-olSong-Regular(0)/m/n/7.875 刘 芳\TU/TimesNewRoman(0)/m/n/7.875 . \TU/FandolSong-
-Regular(0)/m/n/7.875 高 超 声 速 飞 行 器 平
- []
+(./TempExample.bbl [5]) [6
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--89
-\TU/FandolSong-Regular(0)/m/n/7.875 稳 滑 翔 扰 动 运 动 伴 随 分 析 \TU/TimesNewRoman(0)/
-m/n/7.875 [J/OL]. \TU/FandolSong-Regular(0)/m/n/7.875 北 京 航 空
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--89
-\TU/FandolSong-Regular(0)/m/n/7.875 航 天 大 学 学 报， （\TU/TimesNewRoman(0)/m/n/7.87
-5 2018-04-18\TU/FandolSong-Regular(0)/m/n/7.875 ）| \TU/TimesNewRoman(0)/m/n/7.8
-75 [2018-04-20].
- []
-
-
-Overfull \hbox (5.63347pt too wide) in paragraph at lines 81--89
-\TU/TimesNewRoman(0)/m/n/7.875 http://kns.cnki.net/kcms/detail/11.2625.V.201804
-18.1057.003.html 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--89
-\TU/TimesNewRoman(0)/m/n/7.875 HE T L, CHEN W C, LIU F. Adjoint analysis of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--89
-\TU/TimesNewRoman(0)/m/n/7.875 steady glide with disturbance motion for hyperso
-nic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--89
-\TU/TimesNewRoman(0)/m/n/7.875 vehicle[J/OL]. Journal of Beijing University of 
-Aero-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--89
-\TU/TimesNewRoman(0)/m/n/7.875 nautics and Astronautics, |\TU/FandolSong-Regula
-r(0)/m/n/7.875 （\TU/TimesNewRoman(0)/m/n/7.875 2018-04-18\TU/FandolSong-Regular
-(0)/m/n/7.875 ）| \TU/TimesNewRoman(0)/m/n/7.875 [2018-04-20].
- []
-
-
-Overfull \hbox (7.60222pt too wide) in paragraph at lines 81--89
-\TU/TimesNewRoman(0)/m/n/7.875 http://kns.cnki.net/kcms/detail/11.2625.V.201804
-18.1057.003.html. 
- []
-
-) [6]
+]
 LaTeX Font Info:    Font shape `TU/Arial(0)/b/sl' in size <9> not available
 (Font)              Font shape `TU/Arial(0)/b/it' tried instead on input line 4
 76.
@@ -1603,10 +1548,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 27875 strings out of 476919
- 629077 string characters out of 5820496
- 903253 words of memory out of 5000000
- 47209 multiletter control sequences out of 15000+600000
+ 27880 strings out of 476919
+ 629829 string characters out of 5820496
+ 903381 words of memory out of 5000000
+ 47214 multiletter control sequences out of 15000+600000
  521580 words of font info for 467 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  115i,16n,118p,1241b,976s stack positions out of 5000i,500n,10000p,200000b,80000s
