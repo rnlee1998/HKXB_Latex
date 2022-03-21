@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.9)  21 MAR 2022 16:26
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.9)  21 MAR 2022 16:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1429,7 +1429,7 @@ LaTeX Font Info:    No file TUpcr.fd. on input line 59.
 LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
 (Font)              using `TU/lmr/m/n' instead on input line 59.
 
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 122.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 119.
 \somelength=\skip104
 
 Package fontspec Info: Could not resolve font "SimHei/BI" (it probably doesn't
@@ -1455,14 +1455,14 @@ Package fontspec Info: Font family 'SimHei(0)' created for font 'SimHei' with
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
-Underfull \hbox (badness 10000) detected at line 122
+Underfull \hbox (badness 10000) detected at line 119
 \TU/SimHei(0)/m/n/9 摘 要
  []
 
-LaTeX Font Info:    Calculating math sizes for size <7.875> on input line 122.
+LaTeX Font Info:    Calculating math sizes for size <7.875> on input line 119.
 
 LaTeX Font Warning: Font shape `U/wasy/m/n' in size <4.33127> not available
-(Font)              size <5> substituted on input line 122.
+(Font)              size <5> substituted on input line 119.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1470,7 +1470,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 LaTeX Font Warning: Font shape `U/wasy/m/n' in size <4.2> not available
-(Font)              size <5> substituted on input line 138.
+(Font)              size <5> substituted on input line 135.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1492,14 +1492,14 @@ Package fancyhdr Warning: \headheight is too small (28.45274pt):
 ]
 
 LaTeX Font Warning: Font shape `TU/SimHei(0)/b/n' undefined
-(Font)              using `TU/SimHei(0)/m/n' instead on input line 151.
+(Font)              using `TU/SimHei(0)/m/n' instead on input line 148.
 
-File: ./image/tu1.png Graphic file (type bmp)
-<./image/tu1.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
+File: ./image/tu1.png Graphic file (type bmp)
+<./image/tu1.png>
 File: ./image/tu2.png Graphic file (type bmp)
 <./image/tu2.png>
 File: ./image/FigBigAcross.pdf Graphic file (type pdf)
@@ -1529,11 +1529,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 LaTeX Font Info:    Font shape `TU/Arial(0)/b/sl' in size <9> not available
 (Font)              Font shape `TU/Arial(0)/b/it' tried instead on input line 4
-75.
+72.
 
 
 LaTeX Font Warning: Font shape `U/wasy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 475.
+(Font)              size <5> substituted on input line 472.
 
 [7
 
@@ -1548,10 +1548,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 27780 strings out of 476919
- 625783 string characters out of 5820496
+ 27802 strings out of 476919
+ 627363 string characters out of 5820496
  903222 words of memory out of 5000000
- 47122 multiletter control sequences out of 15000+600000
+ 47144 multiletter control sequences out of 15000+600000
  507407 words of font info for 420 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  115i,16n,118p,1241b,976s stack positions out of 5000i,500n,10000p,200000b,80000s
